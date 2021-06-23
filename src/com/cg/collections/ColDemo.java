@@ -32,8 +32,8 @@ public class ColDemo {
 
 		List list2 = new LinkedList();
 		list = list2;
-//		myList = list2; // CE 
+//		myList = list2; // CE /
 
-	}
+	}// edited
 
 }
